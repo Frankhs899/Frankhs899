@@ -2,7 +2,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&duration=3000&pause=1000&color=00FF28&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Franklin;I+am+passionate+about+programming;Excited+to+learn+new+things;Studying+software+analysis+and+development;I+am+from+Colombia;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&letterSpacing=-1px&duration=3000&pause=1000&color=00FF28&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Franklin;I+am+passionate+about+programming;Excited+to+learn+new+things;Studying+software+analysis+and+development;I+am+from+Colombia;Welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
