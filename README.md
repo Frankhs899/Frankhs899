@@ -1,4 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/Frankhs899/Frankhs899/blob/main/github-header-image.png"/>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=00FF28&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Franklin;I+am+passionate+about+programming;Excited+to+learn+new+things;I+am+from+Colombia;Welcome%3A)](https://git.io/typing-svg)
 
 
 ## 👋 Hello, I'm Franklin Hurtado.
