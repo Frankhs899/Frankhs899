@@ -8,8 +8,7 @@
 <br>
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frankhs899&theme=whatsapp-dark&locale=es&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frankhs899&theme=whatsapp-dark&locale=es&date_format=n%2Fj%5B%2FY%5D&card_width=800)](https://git.io/streak-stats)</div>
 
 
 ## 👋 Hello, I'm Franklin Hurtado.
