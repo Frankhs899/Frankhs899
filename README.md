@@ -4,6 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00FF28&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Franklin;I+am+passionate+about+programming;Excited+to+learn+new+things;I+am+from+Colombia;Welcome%3A)](https://git.io/typing-svg)
 
+<br>
+<br>
+
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Frankhs899&theme=whatsapp-dark&locale=es&date_format=n%2Fj%5B%2FY%5D&card_width=800&card_height=)](https://git.io/streak-stats)
+</div>
+
 
 ## 👋 Hello, I'm Franklin Hurtado.
 
