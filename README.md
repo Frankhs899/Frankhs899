@@ -19,8 +19,44 @@
 
 </div>
 
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="/assets/skills/html-5.png">
 
-## 👋 Hello, I'm Franklin Hurtado.
+<img align="left" height="80" width="80" src="/assets/skills/css-3.png">
+
+<img align="left"  height="80" width="80" src="/assets/skills/javascript.png">
+
+<img align="left"  height="80" width="80" src="/assets/skills/piton.png">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="/assets/studying/reactjs.png">
+
+<img align="left"  height="80" width="80" src="/assets/studying/Django.png">
+
+<img align="left"  height="80" width="80" src="/assets/studying/postgre.png">
+
+<img align="left"  height="80" width="80" src="/assets/studying/FastAPI.png">
+
+
+</div>
+
+
+
 
 <!--
 **Frankhs899/Frankhs899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
