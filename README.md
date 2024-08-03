@@ -25,7 +25,7 @@
 
 <img align="left" height="80" width="80" src="/assets/skills/css-3.png">
 
-<img align="left"  height="80" width="80" src="/assets/skills/javascript.png">
+<img align="left"  height="80" width="80" src="/assets/skills/archivo-js.png">
 
 <img align="left"  height="80" width="80" src="/assets/skills/piton.png">
 
@@ -55,20 +55,18 @@
 
 </div>
 
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
 
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFrankhs899&s=40&c=00ff28&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits"></p> 
+<br>
+</div>
 
-
-<!--
-**Frankhs899/Frankhs899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
