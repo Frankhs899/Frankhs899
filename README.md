@@ -1,10 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/Frankhs899/Frankhs899/blob/main/github-header-image.png"/>
 <br>
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&letterSpacing=-1px&duration=3000&pause=1000&color=00FF28&center=true&vCenter=true&width=1000&height=300&lines=Hello%2C+my+name+is+Franklin;I+am+passionate+about+programming;Excited+to+learn+new+things;Studying+software+analysis+and+development;I+am+from+Colombia;Welcome%3A)](https://git.io/typing-svg)
 
-<br>
 <br>
 
 <div align="center">
@@ -55,6 +53,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
   
 <br>
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="centre"><b>Visits</b></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFrankhs899&s=40&c=00ff28&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits"></p> 
 <br>
